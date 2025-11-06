@@ -9,7 +9,7 @@ const HeroSection = () => {
     <section className="relative w-full min-h-[80vh] bg-slate-900 text-white overflow-hidden">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/ezRAY9QD27kiJcur/scene.splinecode"
+          scene="https://prod.spline.design/4HIlOdlXYYkZW66z/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
